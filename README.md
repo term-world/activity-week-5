@@ -12,7 +12,17 @@ There's two big asks for the work ahead of you:
 
 ## DEMOGRAPHIC DUE DILIGENCE
 
-NEED TO ADD INSTRUCTIONS FOR DEMOGRAPHIC DATA ACTIVITY
+A bunch of data stored in the city hall archives was compromised during the break-in at city hall.
+Everything from data on the registered elected officials of `term-world` to poll response data has been tampered with.
+Or in same cases, outright destroyed.
+
+Your assistance is required in order to restore and rebuild the impacted data.
+
+The data that needs your attention has already been partitioned into four separate packets.
+Each packet will have its own `instructions.md` document that will further direct you
+on what specifically needs to be done within the contents of that particular packet.
+
+Our city is counting on you.
 
 ---
 
