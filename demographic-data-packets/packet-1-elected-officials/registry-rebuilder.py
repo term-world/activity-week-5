@@ -1,0 +1,21 @@
+neighborhoods = ["Andra", "Balzare", "Folivoria", "Ix", "Muufo", "Roobrik", "Salatu"]
+# TO-DO: CREATE AN EMPTY LIST TO STORE ELECTED OFFICIAL DATA IN
+
+
+def main():
+    # TO-DO: SET A COUNT FOR THE NUMBER OF ELECTED OFFICIALS TO ZERO, STORE IN VARIABLE num_officials
+
+    while num_officials < len(neighborhoods):
+        new_official = input("STILL MISSING DATA. INPUT NAME OF ONE ELECTED OFFICIAL. ")
+
+        # TO-DO: COMPLETE THE WHILE LOOP IMPLEMENTATION
+        # PROGRAM SHOULD ADD THE NAME OF THE ELECTED OFFICIAL FROM THE USER TO THE LIST OF ELECTED OFFICIALS
+        # AND THEN UPDATE THE COUNT OF ELECTED OFFICIALS BY EXAMINING THE LENGTH OF THE LIST
+
+    else:
+        print()
+        print("NUMBER OF ELECTED OFFICIALS MATCHES NUMBER OF NEIGHBORHOODS. DATA RECONSTRUCTION COMPLETE.")
+        print()
+
+if __name__ == "__main__":
+    main()
