@@ -14,9 +14,9 @@ def main():
     # The below lines *prove* that the output from above line is a list by printing it to the terminal
     print("The original data is as follows:")
     print(data_list)
-    
 
-    # TO-DO: IMPLEMENT A WHILE LOOP THAT RUNS AS LONG AS THE STRING "2+" IS CONTAINED WITHIN data_list
+
+    # TO-DO: IMPLEMENT A while LOOP THAT RUNS AS LONG AS THE STRING "2+" IS CONTAINED in data_list
 
         # TO-DO: USING THE .index(), .pop(), AND .insert() METHODS, "CLEAN" THE DATA
         # REFER TO THE SPECIFICATIONS IN THE INSTRUCTIONS DOCUMENT

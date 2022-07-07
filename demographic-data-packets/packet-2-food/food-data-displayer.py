@@ -17,8 +17,12 @@ def main():
     # The below line *proves* that the output from the above line is a list by printing it to the terminal
     print(preferred_foods)
 
+
     # TO-DO: ITERATE THROUGH EACH item IN THE LIST OF POSSIBLE CHOICES (FROM THE TOP OF THIS PROGRAM)
+
         # TO-DO: FOR EACH ITEM, COUNT THE NUMBER OF TIMES IT OCCURS IN THE LIST preferred_foods AND STORE THIS COUNT IN num_votes
+        
+        
         # DO NOT TOUCH THE BELOW PRINT STATEMENT!
         print(f"{item} received {num_votes} votes")
 
