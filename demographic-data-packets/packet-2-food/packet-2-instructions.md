@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR PREFERRED FOOD DATA ANALYSIS
+## INSTRUCTIONS FOR PREFERRED FOOD DATA ANALYSIS
 
 Our compassionate and most entrepreneurial mayor has been tirelessly collecting data
 on the preferred food of `term-world` citizens,

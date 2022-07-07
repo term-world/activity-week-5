@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR ELECTED OFFICIAL REGISTRY REBUILDER
+## INSTRUCTIONS FOR ELECTED OFFICIAL REGISTRY REBUILDER
 
 During the attack on city hall it appears as though we lost data pertaining to
 the identity of each neighborhood's elected official.
