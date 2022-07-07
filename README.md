@@ -1,4 +1,4 @@
-# CITY HALL RANSACKED, SUSPECT STILL AT LARGE
+# CITY HALL RANSACKED, NO PERPETRATOR IDENTIFIED
 
 That was the leading headline in the `term-world-tribune` today.
 As the mayor has already indicated, he needs *your* assistance
