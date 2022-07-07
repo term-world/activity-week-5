@@ -30,6 +30,9 @@ As with the packet on preferred food, we already have a program that can read in
 from the relevant poll and store that information in a list.
 It's your job to find a way to manipulate that list so it resembles our desired outcome.
 
+It's important to note that the **order** of items in the list is important to maintain in this particualr instance.
+So if the original data list was `[2, 1, 2+, 0]` then the end result must be `[2, 1, 31, 0]`.
+
 I'm also told it's important to protect the original data file, so unfortunately this time
 *we have to withhold the original data file from you*. You'll still be able to `print()`
 its contents like normal, but the `.txt` file itself will be unavailable to you.
