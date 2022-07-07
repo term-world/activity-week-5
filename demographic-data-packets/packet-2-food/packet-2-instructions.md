@@ -14,6 +14,7 @@ or worse--someone that just doesn't like good food).
 It's your job to review the data and put together a program that can
 *count the number of votes each food choice received*.
 
-The program is already outfitted with the capability to read in data from the `preferred-food-poll-results.txt` file.
+The program you'll be working on this time is already outfitted with
+the capability to read in data from the `preferred-food-poll-results.txt` file.
 It's set up so that the series of votes is stored in a list called `preferred_foods`,
 but you'll need to figure out how to actually *count* the votes.
