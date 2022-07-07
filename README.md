@@ -18,7 +18,7 @@ Or in same cases, outright destroyed.
 
 Your assistance is required in order to restore and rebuild the impacted data.
 
-The data that needs your attention has already been partitioned into four separate packets.
+The data that needs your attention has already been partitioned into three separate packets.
 Each packet will have its own `instructions.md` document that will further direct you
 on what specifically needs to be done within the contents of that particular packet.
 
