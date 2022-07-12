@@ -35,7 +35,7 @@ def main():
 
     # DO NOT TOUCH BELOW PRINT STATEMENTS
     print()
-    print(f"The winner of the comptroller race is: {winning_candidate}!")
+    print(f"The winner of the comptroller race is: {winning_candidate} with {highest_vote_count} votes!")
     print()
 
 
