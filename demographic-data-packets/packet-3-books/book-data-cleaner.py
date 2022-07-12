@@ -1,7 +1,7 @@
 from typing import List
 
 # DO NOT TOUCH THE BELOW FUNCTION
-def grab_book_data(filename: str,) -> List[str]: 
+def grab_book_data(filename: str) -> List[str]: 
     num_books_read_list = []
     data = open(filename, "r")
     for line in data.readlines():
